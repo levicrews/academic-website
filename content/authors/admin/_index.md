@@ -14,7 +14,7 @@ role: PhD Candidate in Economics
 
 # Organizations/Affiliations
 organizations:
-- name: University of Chicao
+- name: University of Chicago
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -68,8 +68,4 @@ email: ""
 # - Visitors
 ---
 
-I am a PhD candidate in economics at the University of Chicago.
-My research agenda addresses how the spatial distribution of economic activity
-affects economic welfare in the long run.
-My recent work examines how the allocation of workers across cities in the US
-affects the rate of aggregate growth through localized idea diffusion.
+I am a PhD candidate in economics at the University of Chicago. My research agenda addresses how the spatial distribution of economic activity affects economic welfare in the long run. My recent work examines how the allocation of workers across cities in the US affects the rate of aggregate growth through localized idea diffusion.
