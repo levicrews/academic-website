@@ -29,10 +29,10 @@ education:
   courses:
   - course: PhD in Economics
     institution: University of Chicago
-    year: 
-  - course: BSc in Economics, BA in Mathematics
+    # year: 
+  - course: BSc in Economics and Mathematics
     institution: Duke University
-    year: 2017
+    # year: 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -68,4 +68,4 @@ email: ""
 # - Visitors
 ---
 
-I am a PhD candidate in economics at the University of Chicago. My research agenda addresses how the spatial distribution of economic activity affects economic welfare in the long run. My recent work examines how the allocation of workers across cities in the US affects the rate of aggregate growth through localized idea diffusion.
+I am a PhD candidate in economics at the University of Chicago. My research agenda addresses how the spatial distribution of economic activity affects economic welfare in the long run.
