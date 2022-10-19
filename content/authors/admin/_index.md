@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I study how the spatial distribution of economic activity affects economic welfare in the long run.
+bio: PhD Candidate in Economics at the University of Chicago
 
 interests:
 - Macroeconomics
@@ -29,10 +29,10 @@ education:
   courses:
   - course: PhD in Economics
     institution: University of Chicago
-    # year: 
+    # year:
   - course: BSc in Economics and Mathematics
     institution: Duke University
-    # year: 
+    # year:
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -68,4 +68,6 @@ email: ""
 # - Visitors
 ---
 
-I am a PhD candidate in economics at the University of Chicago. My research agenda addresses how the spatial distribution of economic activity affects economic welfare in the long run.
+Welcome! I am a 6th-year Ph.D. student in economics at the University of Chicago. My research agenda addresses how the spatial distribution of economic activity affects economic welfare in the long run.
+
+I will be on the 2022--23 academic job market.
