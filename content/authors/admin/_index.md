@@ -22,8 +22,8 @@ bio: PhD Candidate in Economics at the University of Chicago
 
 interests:
 - Macroeconomics
-- Spatial economics
-- International trade
+- Spatial Economics
+- International Trade
 
 education:
   courses:
@@ -68,6 +68,14 @@ email: ""
 # - Visitors
 ---
 
-Welcome! I am a 6th-year Ph.D. student in economics at the University of Chicago. My research agenda addresses how the spatial distribution of economic activity affects economic welfare in the long run.
+Welcome! I am a PhD Candidate in Economics at the [University of Chicago](https://economics.uchicago.edu/).
+My research focuses on **macroeconomics**, **spatial economics**,
+and **international trade**,
+with a particular focus on how the spatial distribution of economic activity
+affects economic welfare in the long run.
 
-I will be on the 2022--23 academic job market.
+I will be on the **job market** during the 2022--23 academic year.
+
+My CV is available [here](https://www.levicrews.com/files/crews-cv.pdf).
+
+Reach me at [lgcrews@uchicago.edu](mailto:lgcrews@uchicago.edu)
