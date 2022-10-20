@@ -30,7 +30,7 @@ education:
   - course: PhD in Economics
     institution: University of Chicago
     # year:
-  - course: BSc in Economics and Mathematics
+  - course: BSc in Economics, BA in Mathematics
     institution: Duke University
     # year:
 
@@ -78,4 +78,4 @@ I will be on the **job market** during the 2022--23 academic year.
 
 My CV is available [here](https://www.levicrews.com/files/crews-cv.pdf).
 
-Reach me at [lgcrews@uchicago.edu](mailto:lgcrews@uchicago.edu)
+Reach me at [lgcrews[at]uchicago.edu](mailto:lgcrews@uchicago.edu).
