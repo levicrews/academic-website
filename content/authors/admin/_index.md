@@ -29,10 +29,10 @@ education:
   courses:
   - course: PhD in Economics
     institution: University of Chicago
-    # year:
+    # year: 2017-2023 (expected)
   - course: BSc in Economics, BA in Mathematics
     institution: Duke University
-    # year:
+    # year: 2013-2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
