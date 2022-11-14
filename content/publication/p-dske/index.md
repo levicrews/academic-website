@@ -31,10 +31,10 @@ summary:
 # -
 featured: true
 
-# links:
+links:
 # - name: ""
 #   url: ""
-# url_pdf:
+url_pdf: "files/p-dske_paper.pdf"
 # url_code:
 # url_slides:
 
