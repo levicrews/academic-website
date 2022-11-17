@@ -1,6 +1,6 @@
 ---
 title: "A Dynamic Spatial Knowledge Economy (JMP)"
-subtitle: "Draft Coming Soon!"
+# subtitle: "Draft Coming Soon!"
 authors:
 - admin
 # author_notes:
