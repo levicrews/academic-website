@@ -74,9 +74,9 @@ and **international trade**,
 with a particular focus on how the spatial distribution of economic activity
 affects economic welfare in the long run.
 
-I will spend 2023-24 as a Postdoctoral Fellow
-in the International Economics Section at [Princeton](https://ies.princeton.edu/),
-after which I will join the Economics Department at [UCLA](https://economics.ucla.edu/)
+I will spend 2023-24 as a Postdoctoral Fellow at
+[Princeton IES](https://ies.princeton.edu/),
+after which I will join [UCLA Economics](https://economics.ucla.edu/)
 as an Assistant Professor.
 
 My CV is available [here](https://www.levicrews.com/files/crews-cv.pdf).
