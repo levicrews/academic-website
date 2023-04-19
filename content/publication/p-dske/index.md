@@ -1,6 +1,6 @@
 ---
-title: "A Dynamic Spatial Knowledge Economy (JMP)"
-# subtitle: "Draft Coming Soon!"
+title: "A Dynamic Spatial Knowledge Economy"
+subtitle: "Job Market Paper"
 authors:
 - admin
 # author_notes:
@@ -22,7 +22,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: Cities have long been thought to drive economic growth. Despite this, analyses of spatial policies have largely ignored the effects of such policies on growth. In this paper, I develop a spatial endogenous growth model in which heterogeneous agents make forward-looking migration decisions and human capital investments over the life cycle. Local externalities in the human capital investment technology drive both agglomeration and growth. I show that, along a balanced growth path, the growth rate depends on the spatial distribution of human capital, making it sensitive to spatial policies. I calibrate the model to data on U.S. metropolitan areas and show that it can rationalize the faster wage growth of workers in big cities, as well as other key patterns in life-cycle wage profiles, migration decisions, and city characteristics. Because workers accumulate human capital at different rates depending on where they live, the model provides an environment in which spatial policy can not just attract skilled workers, but produce them, too. I find that policies that further concentrate skilled workers in large cities are growth-enhancing.
+abstract: "Cities have long been thought to drive economic growth. Despite this, analyses of spatial policies have largely ignored the effects of such policies on growth. In this paper, I develop a spatial endogenous growth model in which heterogeneous agents make forward-looking migration decisions and human capital investments over the life cycle. Local externalities in the human capital investment technology drive both agglomeration and growth. I show that, along a balanced growth path, the growth rate depends on the spatial distribution of human capital, making it sensitive to spatial policies. I calibrate the model to data on U.S. metropolitan areas and show that it can rationalize the faster wage growth of workers in big cities, as well as other key patterns in life-cycle wage profiles, migration decisions, and city characteristics. Because workers accumulate human capital at different rates depending on where they live, the model provides an environment in which spatial policy can not just attract skilled workers, but produce them, too. I find that policies that further concentrate skilled workers in large cities are growth-enhancing."
 
 # Summary. An optional shortened abstract.
 summary:
