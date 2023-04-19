@@ -36,7 +36,7 @@ links:
 #   url: ""
 url_pdf: "files/p-dske_paper.pdf"
 # url_code:
-# url_slides:
+url_slides: "files/p-dske_slides.pdf"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
