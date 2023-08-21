@@ -68,15 +68,15 @@ email: ""
 # - Visitors
 ---
 
-Welcome! I am a PhD Candidate in Economics at the [University of Chicago](https://economics.uchicago.edu/).
+Welcome! I am an IES Postdoctoral Fellow at
+[Princeton University](https://ies.princeton.edu/).
 My research focuses on **macroeconomics**, **spatial economics**,
 and **international trade**,
 with a particular focus on how the spatial distribution of economic activity
 affects economic welfare in the long run.
 
-I will spend 2023-24 as a Postdoctoral Fellow at
-[Princeton IES](https://ies.princeton.edu/),
-after which I will join [UCLA Economics](https://economics.ucla.edu/)
+Following the 2023-24 academic year,
+I will join [UCLA Economics](https://economics.ucla.edu/)
 as an Assistant Professor.
 
 My CV is available [here](https://www.levicrews.com/files/crews-cv.pdf).
