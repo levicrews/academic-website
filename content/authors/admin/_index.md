@@ -10,15 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate in Economics
+role: IES Postdoctoral Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: University of Chicago
+- name: Princeton University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: PhD Candidate in Economics at the University of Chicago
+bio: IES Postdoctoral Fellow at Princeton University
 
 interests:
 - Macroeconomics
@@ -41,7 +41,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:lgcrews@uchicago.edu"
+  link: "mailto:lcrews@princeton.edu"
   # link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
@@ -81,4 +81,4 @@ as an Assistant Professor.
 
 My CV is available [here](https://www.levicrews.com/files/crews-cv.pdf).
 
-Reach me at [lgcrews[at]uchicago.edu](mailto:lgcrews@uchicago.edu).
+Reach me at [lcrews[at]princeton.edu](mailto:lcrews@princeton.edu).
