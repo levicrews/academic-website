@@ -82,3 +82,5 @@ as an Assistant Professor.
 My CV is available [here](https://www.levicrews.com/files/crews-cv.pdf).
 
 Reach me at [lcrews[at]princeton.edu](mailto:lcrews@princeton.edu).
+
+Princeton graduate students and thesis advisees can [book a meeting with me](https://calendar.app.google/ouW4CBc6e7ohtGgz6).
