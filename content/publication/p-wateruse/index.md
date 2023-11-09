@@ -1,6 +1,6 @@
 ---
 title: "Agriculture, Trade, and the Spatial Efficiency of Global Water Use"
-subtitle: "Draft Coming Soon!"
+subtitle: "New!"
 authors:
 - Tamma Carleton
 - admin
@@ -24,7 +24,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: "The agricultural sector is the dominant user of water, but its use is distorted by two key forces: (i) farmers' imperfect property rights over water extraction and (ii) the various taxes and subsidies on their products. Using a rich collection of detailed geospatial data, we document that these patterns are pervasive across the globe. We then build a dynamic spatial general equilibrium model to quantify the potential welfare gains of reallocating global water use in agricultural production. In the model, each local water stock evolves endogenously as nearby farmers extract water as if from a common pool. Farmers' choices of which crop to grow and how much to produce respond, in turn, to the level of the local stock and the prices they face in the global market. We quantify the model such that it rationalizes observed patterns in agricultural production and trends in water availability out of steady state. With the quantified model in hand, we consider how counterfactual agricultural policies shift water use and affect welfare in the long run."
+abstract: "Over 90% of global water use occurs in agricultural production, which is subjective to two pervasive distortions: (i) incomplete property rights for farmers accessing water and (ii) subsidies, taxes, and tariffs affecting agricultural output. This paper combines a rich collection of global geospatial data with a dynamic spatial equilibrium model to quantify the impact of agricultural and trade policies on regional water scarcity and welfare. In the data, we show that water-intensive crops concentrate highly in water-abundant locations, implying a strong role for comparative advantage in governing global water use, though a small number of regions with very water-intensive production are losing water rapidly over time. In the model, we capture production, consumption, and trade in agriculture across many countries and crops, as well as the dynamic evolution of local water stocks as farmers extract from the common pool resource. We calibrate the model to match observed global patterns of agricultural production and hydrological trends and use it to conduct counterfactual simulations of alternative policy regimes. We find that eliminating international trade in agriculture would dramatically increase water depletion across most of the world, and especially so in drier food-importing regions, resulting in large reductions in welfare over time. In contrast, other observed and hypothetical incremental agricultural policy liberalizations have mixed effects that vary greatly across locations, suggesting nuance in implications for policy."
 
 # Summary. An optional shortened abstract.
 summary:
@@ -33,19 +33,19 @@ summary:
 # -
 featured: true
 
-# links:
+links:
 # - name: ""
 #   url: ""
-# url_pdf:
+url_pdf: "files/p-wateruse_paper.pdf"
 # url_code:
-url_slides: "files/p-wateruse_slides.pdf"
+# url_slides: "files/p-wateruse_slides.pdf"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
-image:
-    caption: ""
-    focal_point: ""
-    preview_only: false
+# image:
+#     caption: ""
+#     focal_point: ""
+#     preview_only: false
 ---
 
 <!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). -->
