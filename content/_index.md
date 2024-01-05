@@ -2,7 +2,7 @@
 title: Levi Crews
 ---
 
-{{< figure class="avatar" src="/avatar.jpg" alt="avatar">}}
+{{< figure class="avatar" src="img/avatar.jpg" alt="avatar">}}
 
 Welcome! I am an IES Postdoctoral Fellow at
 [Princeton University](https://ies.princeton.edu/).
