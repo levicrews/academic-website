@@ -8,7 +8,7 @@ googleAnalytics = "G-931B69WEG0"  # add your tracking id
 
 [params]
   author = "Levi Crews"
-  description = "A simple monospaced academic site."
+  description = "I am an IES Postdoctoral Fellow at Princeton University. My research focuses on macroeconomics, spatial economics, and international trade."
   favicon = "img/icon-uclabear.png"  # path to a .ico to use as favicon
   logo = ""  # url or path to a logo to put in the header
   [params.footer]
