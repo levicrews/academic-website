@@ -1,4 +1,21 @@
 details {
-    margin-bottom: 0.75em;
+    margin-bottom: 1em;
     /* adds units of spacing after each details element */
+}
+
+.button {
+    background-color: #EBEBEB;
+    border: none;
+    color: #2774AE;
+    padding: 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    margin: 1px;
+    border-radius: 10px; /* rounded corners */
+}
+.button:hover {
+    background-color: #FFC72C;
+    color: #2774AE;
 }

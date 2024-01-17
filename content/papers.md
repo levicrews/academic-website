@@ -4,7 +4,9 @@ title: Papers
 
 ## working papers
 
-1. **A dynamic spatial knowledge economy** (JMP) [[paper](/files/p-dske_paper.pdf)] [[slides](/files/p-dske_slides.pdf)]
+1. **A dynamic spatial knowledge economy** (JMP)
+    <a href="/files/p-dske_paper.pdf" class="button">paper</a>
+    <a href="/files/p-dske_slides.pdf" class="button">slides</a>
 
     <details>
 
@@ -14,7 +16,9 @@ title: Papers
 
     </details>
 
-2. **Agriculture, trade, and the spatial efficiency of global water use** (w/&nbsp;[T.&nbsp;Carleton](https://www.tammacarleton.com/) and [I.&nbsp;Nath](https://www.ishannath.com/)) [[paper](/files/p-wateruse_paper.pdf)] [[slides](/files/p-wateruse_slides.pdf)]
+1. **Agriculture, trade, and the spatial efficiency of global water use** (w/&nbsp;[T.&nbsp;Carleton](https://www.tammacarleton.com/) and [I.&nbsp;Nath](https://www.ishannath.com/))
+    <a href="/files/p-wateruse_paper.pdf" class="button">paper</a>
+    <a href="/files/p-wateruse_slides.pdf" class="button">slides</a>
 
     <details>
 
@@ -24,7 +28,7 @@ title: Papers
 
     </details>
 
-3. **Is the world running out of fresh water?** (w/ [T.&nbsp;Carleton](https://www.tammacarleton.com/) and [I.&nbsp;Nath](https://www.ishannath.com/)) *AEA&nbsp;Papers & Proceedings*, in prep. [[paper](/files/p-wateruse_pp-paper.pdf)] [[slides](/files/p-wateruse_pp-slides.pdf)]
+1. **Is the world running out of fresh water?** (w/ [T.&nbsp;Carleton](https://www.tammacarleton.com/) and [I.&nbsp;Nath](https://www.ishannath.com/)) *AEA&nbsp;Papers & Proceedings*, in&nbsp;prep. <a href="/files/p-wateruse_pp-paper.pdf" class="button">paper</a> <a href="/files/p-wateruse_pp-slides.pdf" class="button">slides</a>
 
 ## work in progress
 
