@@ -16,9 +16,9 @@ googleAnalytics = "G-931B69WEG0"  # add your tracking id
     url = "https://github.com/ojroques/hugo-researcher"
   [params.style]  # appearance options (can be omitted)
     fontFamily = "Courier"
-    fontSize = "12pt"
+    fontSize = "11pt"
     pageWidth = "750px"
-    avatarSize = "250px"
+    avatarSize = "200px"
     colorBlack = "#222222"
     colorRed = "#2774AE"
   [[params.socialIcons]]
