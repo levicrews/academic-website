@@ -14,7 +14,7 @@ title: Papers
 
     </details>
 
-2. **Agriculture, trade, and the spatial efficiency of global water use** (w/ [T. Carleton](https://www.tammacarleton.com/) and [I. Nath](https://www.ishannath.com/)) [[paper](/files/p-wateruse_paper.pdf)] [[slides](/files/p-wateruse_slides.pdf)]
+2. **Agriculture, trade, and the spatial efficiency of global water use** (w/&nbsp;[T.&nbsp;Carleton](https://www.tammacarleton.com/) and [I.&nbsp;Nath](https://www.ishannath.com/)) [[paper](/files/p-wateruse_paper.pdf)] [[slides](/files/p-wateruse_slides.pdf)]
 
     <details>
 
@@ -24,11 +24,11 @@ title: Papers
 
     </details>
 
-3. **Is the world running out of fresh water?** (w/ [T. Carleton](https://www.tammacarleton.com/) and [I. Nath](https://www.ishannath.com/)) *AEA Papers & Proceedings*, in prep. [[paper](/files/p-wateruse_pp-paper.pdf)] [[slides](/files/p-wateruse_pp-slides.pdf)]
+3. **Is the world running out of fresh water?** (w/ [T.&nbsp;Carleton](https://www.tammacarleton.com/) and [I.&nbsp;Nath](https://www.ishannath.com/)) *AEA&nbsp;Papers & Proceedings*, in prep. [[paper](/files/p-wateruse_pp-paper.pdf)] [[slides](/files/p-wateruse_pp-slides.pdf)]
 
 ## work in progress
 
-1. **Does eating local reduce emissions?** (w/ [I. Nath](https://www.ishannath.com/))
+1. **Does eating local reduce emissions?** (w/ [I.&nbsp;Nath](https://www.ishannath.com/))
 
     <details>
 
@@ -38,7 +38,7 @@ title: Papers
 
     </details>
 
-2. **Trade policy and food security** (w/ [I. Nath](https://www.ishannath.com/) and [A. Schmitz](https://www.econ.berkeley.edu/grad/profiles/15946))
+2. **Trade policy and food security** (w/ [I.&nbsp;Nath](https://www.ishannath.com/) and [A.&nbsp;Schmitz](https://www.econ.berkeley.edu/grad/profiles/15946))
 
     <details>
 
