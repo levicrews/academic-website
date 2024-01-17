@@ -32,10 +32,10 @@ Princeton grad students and thesis advisees can [book a meeting with me](https:/
 1. **A dynamic spatial knowledge economy** (JMP) <br>
 <a href="/files/p-dske_paper.pdf" class="button">paper</a>
 <a href="/files/p-dske_slides.pdf" class="button">slides</a>
-2. **Agriculture, trade, and the spatial efficiency of global water use** <br> (w/ [T.&nbsp;Carleton](https://www.tammacarleton.com/) and [I.&nbsp;Nath](https://www.ishannath.com/)) <br>
+1. **Agriculture, trade, and the spatial efficiency of global water use** (w/&nbsp;[T.&nbsp;Carleton](https://www.tammacarleton.com/) and [I.&nbsp;Nath](https://www.ishannath.com/)) <br>
 <a href="/files/p-wateruse_paper.pdf" class="button">paper</a>
 <a href="/files/p-wateruse_slides.pdf" class="button">slides</a>
-3. **Is the world running out of fresh water?** (w/ [T.&nbsp;Carleton](https://www.tammacarleton.com/) and [I.&nbsp;Nath](https://www.ishannath.com/)) *AEA&nbsp;Papers & Proceedings*, in&nbsp;prep. <br>
+1. **Is the world running out of fresh water?** (w/&nbsp;[T.&nbsp;Carleton](https://www.tammacarleton.com/) and [I.&nbsp;Nath](https://www.ishannath.com/)) *AEA&nbsp;Papers & Proceedings*, in&nbsp;prep. <br>
 <a href="/files/p-wateruse_pp-paper.pdf" class="button">paper</a>
 <a href="/files/p-wateruse_pp-slides.pdf" class="button">slides</a>
 
