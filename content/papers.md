@@ -8,7 +8,7 @@ title: Papers
     <a href="/files/p-dske_paper.pdf" class="button">paper</a>
     <a href="/files/p-dske_slides.pdf" class="button">slides</a>
 
-    <details>
+    <details> <!-- <details open> will default to open -->
 
     <summary>abstract</summary>
 
@@ -16,7 +16,7 @@ title: Papers
 
     </details>
 
-1. **Agriculture, trade, and the spatial efficiency of global water use** (w/&nbsp;[T.&nbsp;Carleton](https://www.tammacarleton.com/) and [I.&nbsp;Nath](https://www.ishannath.com/))
+2. **Agriculture, trade, and the spatial efficiency of global water use** (w/&nbsp;[T.&nbsp;Carleton](https://www.tammacarleton.com/) and [I.&nbsp;Nath](https://www.ishannath.com/))
     <a href="/files/p-wateruse_paper.pdf" class="button">paper</a>
     <a href="/files/p-wateruse_slides.pdf" class="button">slides</a>
 
@@ -28,7 +28,7 @@ title: Papers
 
     </details>
 
-1. **Is the world running out of fresh water?** (w/ [T.&nbsp;Carleton](https://www.tammacarleton.com/) and [I.&nbsp;Nath](https://www.ishannath.com/)) *AEA&nbsp;Papers & Proceedings*, in&nbsp;prep. <a href="/files/p-wateruse_pp-paper.pdf" class="button">paper</a> <a href="/files/p-wateruse_pp-appendix.pdf" class="button">appendix</a>
+3. **Is the world running out of fresh water?** (w/ [T.&nbsp;Carleton](https://www.tammacarleton.com/) and [I.&nbsp;Nath](https://www.ishannath.com/)) *AEA&nbsp;Papers & Proceedings*, in&nbsp;prep. <a href="/files/p-wateruse_pp-paper.pdf" class="button">paper</a> <a href="/files/p-wateruse_pp-appendix.pdf" class="button">appendix</a>
 
 ## work in progress
 
