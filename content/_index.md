@@ -37,7 +37,7 @@ Princeton grad students and thesis advisees can [book a meeting with me](https:/
 <a href="/files/p-wateruse_slides.pdf" class="button">slides</a>
 1. **Is the world running out of fresh water?** (w/&nbsp;[T.&nbsp;Carleton](https://www.tammacarleton.com/) and [I.&nbsp;Nath](https://www.ishannath.com/)) *AEA&nbsp;Papers & Proceedings*, in&nbsp;prep. <br>
 <a href="/files/p-wateruse_pp-paper.pdf" class="button">paper</a>
-<a href="/files/p-wateruse_pp-slides.pdf" class="button">slides</a>
+<a href="/files/p-wateruse_pp-appendix.pdf" class="button">appendix</a>
 
 ## work in progress
 
