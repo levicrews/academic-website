@@ -5,3 +5,4 @@
 resources/
 public/
 .Rproj.user
+.hugo_build.lock
