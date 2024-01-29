@@ -1,3 +1,5 @@
+// https://stackoverflow.com/questions/77893096/css-fix-positioning-of-anchors-next-to-details-summary/77895709?noredirect=1#comment137330103_77895709
+
 document.querySelectorAll('nav .summary').forEach(function (summary) {
   summary.addEventListener('click', function () {
     var dataAtt = this.getAttribute('data-nav');
@@ -13,18 +15,3 @@ document.querySelectorAll('nav .summary').forEach(function (summary) {
     }
   });
 });
-
-
-/*$('nav .summary').each(function(){
-  $(this).click(function(){
-    var $dataAtt = $(this).attr('data-nav');
-    var $matchTarg = $('.summary-target[data-summary="'+$dataAtt+'"]');
-
-    if( $matchTarg.hasClass('show') ){
-      $matchTarg.removeClass('show');
-    } else {
-      $('.summary-target').removeClass('show');
-      $matchTarg.addClass('show');
-    }
-  });
-});*/
