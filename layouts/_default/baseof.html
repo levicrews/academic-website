@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="{{ .Site.Params.lang }}">
     <link rel="stylesheet" href="/css/custom.css">
+    <script defer language="javascript" type="text/javascript" src="{{ "/js/custom.js" | urlize | relURL }}"></script>
     {{- partial "head.html" . -}}
     {{ if or (.Params.math) (.Site.Params.math) }}
         {{- partial "math.html" . -}}

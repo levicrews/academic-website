@@ -1,8 +1,3 @@
-details {
-    margin-bottom: 1em;
-    /* adds units of spacing after each details element */
-}
-
 .button {
     background-color: #EBEBEB;
     border: none;
@@ -12,10 +7,54 @@ details {
     text-decoration: none;
     display: inline-block;
     font-size: 12px;
-    margin: 1px;
+    margin: 0px;
     border-radius: 10px; /* rounded corners */
 }
 .button:hover {
     background-color: #FFC72C;
     color: #2774AE;
+}
+
+.details {
+    display: block;
+}
+.details .summary-target {
+    display: none;
+}
+.details .summary-target.show {
+    display: block;
+    margin-bottom: 1em;
+}
+nav {
+  user-select: none;
+}
+nav * {
+  cursor: pointer;
+}
+.summary {
+    background-color: #EBEBEB;
+    border: none;
+    color: #2774AE;
+    padding: 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline;
+    font-size: 12px;
+    border-radius: 10px;
+}
+.summary:hover {
+    background: #FFC72C;
+}
+nav .summary {
+    list-style: none;
+}
+nav .summary::-webkit-details-marker {
+    display: none;
+}
+nav .summary {
+    display: -webkit-inline-flex;
+    position: relative;
+    top: 0px;
+    right: 0%;
+    margin-bottom: 1em;
 }
