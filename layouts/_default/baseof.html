@@ -3,6 +3,15 @@
     <link rel="stylesheet" href="/css/custom.css">
     <script defer language="javascript" type="text/javascript" src="{{ "/js/custom.js" | urlize | relURL }}"></script>
     {{- partial "head.html" . -}}
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-931B69WEG0"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'G-931B69WEG0');
+    </script>
     {{ if or (.Params.math) (.Site.Params.math) }}
         {{- partial "math.html" . -}}
     {{ end }}
@@ -12,9 +21,5 @@
         {{- block "main" . }}{{- end }}
         </div>
         {{- partial "footer.html" . -}}
-
-        {{ if and (not .Site.IsServer) .Site.Data.consent }}
-        {{- partial "consent.html" . -}}
-        {{ end }}
     </body>
 </html>
