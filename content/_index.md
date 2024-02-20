@@ -67,22 +67,52 @@ Princeton grad students and thesis advisees can [book a meeting with me](https:/
 
 ## work in progress
 
-1. **Does eating local reduce emissions?** (w/ [I.&nbsp;Nath](https://www.ishannath.com/))
-    <nav>
+1. **Spatial sources of lifetime inequality**
+    <!-- <nav>
+    <div class="summary" data-nav="dskeestimation">abstract</div>
+    </nav>
+    <div class="details">
+    <div class="summary-target" data-summary="dskeestimation">
+
+    </div>
+    </div> -->
+
+2. **Slowdown, divergence, and the geography of human capital accumulation**
+    <!-- <nav>
+    <div class="summary" data-nav="dsketransitions">abstract</div>
+    </nav>
+    <div class="details">
+    <div class="summary-target" data-summary="dsketransitions">
+
+    </div>
+    </div> -->
+
+3. **Agriculture and the gains from trade** (w/ [I.&nbsp;Nath](https://www.ishannath.com/))
+    <!-- <nav>
+    <div class="summary" data-nav="gftag">abstract</div>
+    </nav>
+    <div class="details">
+    <div class="summary-target" data-summary="gftag">
+
+    </div>
+    </div> -->
+
+4. **Does eating local reduce emissions?** (w/ [I.&nbsp;Nath](https://www.ishannath.com/))
+    <!-- <nav>
     <div class="summary" data-nav="eatlocal">abstract</div>
     </nav>
     <div class="details">
     <div class="summary-target" data-summary="eatlocal">
         This paper examines the conventional wisdom that promoting consumption of locally produced food reduces greenhouse gas emissions. We start by exploring the partial equilibrium consequences of a single consumer's sourcing decisions using existing data on emissions from shipping along with a new high-resolution global spatial dataset containing scientific estimates of crop-wise emissions from agricultural production. Initial exploration suggests that the spatial variation in production emissions from agriculture is substantial relative to the emissions from shipping. Next, we will use a global model of production, consumption, and trade in agriculture to investigate the general equilibrium consequences of varying the level of globalization. We plan to use the model to compare global agricultural emissions under existing policy to a scenario that imposes autarky on all local regions, and to an alternative scenario with much greater openness to trade.
     </div>
-    </div>
+    </div> -->
 
-2. **Trade policy and food security** (w/ [I.&nbsp;Nath](https://www.ishannath.com/) and [A.&nbsp;Schmitz](https://www.econ.berkeley.edu/grad/profiles/15946))
-    <nav>
+5. **Trade policy and food security** (w/ [I.&nbsp;Nath](https://www.ishannath.com/) and [A.&nbsp;Schmitz](https://www.econ.berkeley.edu/grad/profiles/15946))
+    <!-- <nav>
     <div class="summary" data-nav="foodsecurity">abstract</div>
     </nav>
     <div class="details">
     <div class="summary-target" data-summary="foodsecurity">
         This paper investigates how trade policy affects stability in food supply and food prices. We show that openness to trade exerts two competing forces on volatility: (i) diversifying supply across many countries reduces the exposure of local consumers to domestic or regional shocks and (ii) relying on imports for consumption of a necessary good creates vulnerability to geopolitical risk or trade barriers erected in response to instability. We use global panel data on agricultural production, prices, trade flows, trade policy, and weather to examine how trade barriers respond endogenously to agricultural supply shocks and explore the domestic and international transmission of price fluctuations. We plan to use a model of production, consumption, and trade in agriculture to study optimal trade policy for promoting food supply stability in countries facing endogenous trade barriers and stochastic shocks to productivity.
     </div>
-    </div>
+    </div> -->
