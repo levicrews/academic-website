@@ -58,6 +58,7 @@ Princeton grad students and thesis advisees can [book a meeting with me](https:/
     <div class="summary" data-nav="wateruse-pp">abstract</div>
     <a href="/files/p-wateruse_pp-paper.pdf" class="button">paper</a>
     <a href="/files/p-wateruse_pp-appendix.pdf" class="button">appendix</a>
+    <a href="https://github.com/tcarleton/ccn-water-PandP" class="button">code</a>
     </nav>
     <div class="details">
     <div class="summary-target" data-summary="wateruse-pp">
