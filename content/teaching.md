@@ -42,6 +42,7 @@ I contributed two supplementary lectures on macro methods during our PhD math ca
 
 #### Conferences
 
+- [Lhuillier (2024)](../files/discussion_NBERSI2024.pdf) "Should I stay or should I grow? How cities affect learning, inequality and productivity" (presented at the 2024 NBER Summer Institute ITI)
 - [Donald, Fukui, & Miyauchi (2023)](../files/discussion_UEA2023.pdf) "Efficiency and welfare in a spatial economy" (presented at the 2023 UEA North American Meetings)
 
 #### Reading Groups
