@@ -4,26 +4,25 @@ title: Levi Crews
 
 {{< figure class="avatar" src="img/avatar.jpg" alt="avatar">}}
 
-Welcome! I am an IES Postdoctoral Fellow at
-[Princeton University](https://ies.princeton.edu/).
+Welcome! I am an Assistant Professor of Economics at [UCLA](https://economics.ucla.edu/).
 My research focuses on **macroeconomics**, **spatial economics**,
 and **international trade**,
-with a particular focus on how the spatial distribution of economic activity
-affects macro aggregates and economic welfare in the long run.
+with a particular focus on how the spatial allocation of economic activity
+affects macro aggregates and welfare in the long run.
 
 <br>
 
-Following the 2023-24 academic year,
-I will join [UCLA Economics](https://economics.ucla.edu/)
-as an Assistant Professor.
+Before UCLA, I was an IES Postdoctoral Fellow at
+[Princeton University](https://ies.princeton.edu/) for AY 2023-24.
+I received my Ph.D. in Economics from the [University of Chicago](https://economics.uchicago.edu/) in 2023.
 
 <br>
 
 My CV is available [here](https://www.levicrews.com/files/crews-cv.pdf).
 
-Reach me at [lcrews[at]princeton.edu](mailto:lcrews@princeton.edu).
+Reach me at [lgcrews[at]econ.ucla.edu](mailto:lgcrews@econ.ucla.edu).
 
-Princeton grad students and thesis advisees can [book a meeting with me](https://calendar.app.google/ouW4CBc6e7ohtGgz6).
+UCLA grad students can [book a meeting with me](https://calendar.app.google/ouW4CBc6e7ohtGgz6).
 
 ---
 

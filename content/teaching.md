@@ -33,8 +33,8 @@ I wrote a number of problem set and exam questions for Felix Tintelnot's undergr
 
 I contributed two supplementary lectures on macro methods during our PhD math camp at UChicago.
 
-- [Ordinary Differential Equations](../files/session-ode.pdf)
-- [Computational Dynamic Programming](../files/session-comp.pdf)
+- [Ordinary differential equations](../files/session-ode.pdf)
+- [Computational dynamic programming](../files/session-comp.pdf)
 
 ---
 
