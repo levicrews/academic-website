@@ -24,7 +24,7 @@ googleAnalytics = "G-931B69WEG0"  # add your tracking id
   [[params.socialIcons]]
     icon = "fas fa-envelope"
     title = "E-mail"
-    url = "mailto:lcrews@princeton.edu"
+    url = "mailto:lgcrews@econ.ucla.edu"
   [[params.socialIcons]]
     icon = "fab fa-twitter"
     title = "Twitter"
