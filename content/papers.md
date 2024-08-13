@@ -58,7 +58,7 @@ title: Papers
 
     Does trade matter more for poor countries? New ACR-like welfare formula with nonhomothetic preferences + sector-specific trade and income elasticities.
 
-4. **Does eating local reduce emissions?** (w/ [I.&nbsp;Nath](https://www.ishannath.com/))
+4. **Does eating local reduce emissions?** (w/ [I.&nbsp;Nath](https://www.ishannath.com/), [M.&nbsp;Quentel](https://www.milan-quentel.com/), and [J.&nbsp;Sayre](https://jsayre.ucdavis.edu/))
 
     Detailed data on emissions from shipping + emissions from agricultural production (by commodity and location) with a quantitative trade model.
 

@@ -99,7 +99,7 @@ UCLA grad students can [book a meeting with me](https://calendar.app.google/ouW4
     </div>
     </div> -->
 
-4. **Does eating local reduce emissions?** (w/ [I.&nbsp;Nath](https://www.ishannath.com/))
+4. **Does eating local reduce emissions?** (w/ [I.&nbsp;Nath](https://www.ishannath.com/), [M.&nbsp;Quentel](https://www.milan-quentel.com/), and [J.&nbsp;Sayre](https://jsayre.ucdavis.edu/))
     <!-- <nav>
     <div class="summary" data-nav="eatlocal">abstract</div>
     </nav>
