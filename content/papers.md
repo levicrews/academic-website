@@ -54,7 +54,7 @@ title: Papers
 
     A (potentially) unified story of the aggregate growth slowdown, regional growth and decline, and micro evidence on migration and human capital investment.
 
-3. **Agriculture and the gains from trade** (w/ [I.&nbsp;Nath](https://www.ishannath.com/))
+3. **Agriculture and the gains from trade** (w/ [S.&nbsp;Kortum](https://campuspress.yale.edu/samuelkortum/) and [I.&nbsp;Nath](https://www.ishannath.com/))
 
     Does trade matter more for poor countries? New ACR-like welfare formula with nonhomothetic preferences + sector-specific trade and income elasticities.
 
@@ -62,6 +62,6 @@ title: Papers
 
     Detailed data on emissions from shipping + emissions from agricultural production (by commodity and location) with a quantitative trade model.
 
-5. **Trade policy and food security** (w/ [I.&nbsp;Nath](https://www.ishannath.com/) and [A.&nbsp;Schmitz](https://www.econ.berkeley.edu/grad/profiles/15946))
+5. **Trade policy and food security** (w/ [I.&nbsp;Nath](https://www.ishannath.com/), [A.&nbsp;Schmitz](https://www.olab.berkeley.edu/graduate-students-1/alice-schmitz), and S.&nbsp;Stewart)
 
     You're a policymaker worried about your nation's food security in an uncertain, global economy --- your people can't eat manufactures, after all. *What trade policies, if any, should you set?*

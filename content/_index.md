@@ -89,7 +89,7 @@ UCLA grad students can [book a meeting with me](https://calendar.app.google/2jaM
     </div>
     </div> -->
 
-3. **Agriculture and the gains from trade** (w/ [I.&nbsp;Nath](https://www.ishannath.com/))
+3. **Agriculture and the gains from trade** (w/ [S.&nbsp;Kortum](https://campuspress.yale.edu/samuelkortum/) and [I.&nbsp;Nath](https://www.ishannath.com/))
     <!-- <nav>
     <div class="summary" data-nav="gftag">abstract</div>
     </nav>
@@ -109,7 +109,7 @@ UCLA grad students can [book a meeting with me](https://calendar.app.google/2jaM
     </div>
     </div> -->
 
-5. **Trade policy and food security** (w/ [I.&nbsp;Nath](https://www.ishannath.com/) and [A.&nbsp;Schmitz](https://www.econ.berkeley.edu/grad/profiles/15946))
+5. **Trade policy and food security** (w/ [I.&nbsp;Nath](https://www.ishannath.com/), [A.&nbsp;Schmitz](https://www.olab.berkeley.edu/graduate-students-1/alice-schmitz), and S.&nbsp;Stewart)
     <!-- <nav>
     <div class="summary" data-nav="foodsecurity">abstract</div>
     </nav>
