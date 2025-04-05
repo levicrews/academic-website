@@ -69,7 +69,7 @@ UCLA grad students can [book a meeting with me](https://calendar.app.google/2jaM
 
 ## work in progress
 
-1. **Spatial sources of lifetime inequality**
+1. **Skills, sorting, and optimal dynamic spatial policy**
     <!-- <nav>
     <div class="summary" data-nav="dskeestimation">abstract</div>
     </nav>
@@ -79,7 +79,17 @@ UCLA grad students can [book a meeting with me](https://calendar.app.google/2jaM
     </div>
     </div> -->
 
-2. **Slowdown, divergence, and the geography of human capital accumulation**
+2. **Spatial sources of lifetime inequality**
+    <!-- <nav>
+    <div class="summary" data-nav="dskeestimation">abstract</div>
+    </nav>
+    <div class="details">
+    <div class="summary-target" data-summary="dskeestimation">
+
+    </div>
+    </div> -->
+
+3. **Slowdown, divergence, and the geography of human capital accumulation**
     <!-- <nav>
     <div class="summary" data-nav="dsketransitions">abstract</div>
     </nav>
@@ -89,7 +99,7 @@ UCLA grad students can [book a meeting with me](https://calendar.app.google/2jaM
     </div>
     </div> -->
 
-3. **Agriculture and the gains from trade** (w/ [S.&nbsp;Kortum](https://campuspress.yale.edu/samuelkortum/) and [I.&nbsp;Nath](https://www.ishannath.com/))
+4. **Agriculture and the gains from trade** (w/ [S.&nbsp;Kortum](https://campuspress.yale.edu/samuelkortum/) and [I.&nbsp;Nath](https://www.ishannath.com/))
     <!-- <nav>
     <div class="summary" data-nav="gftag">abstract</div>
     </nav>
@@ -99,7 +109,7 @@ UCLA grad students can [book a meeting with me](https://calendar.app.google/2jaM
     </div>
     </div> -->
 
-4. **Does eating local reduce emissions?** (w/ [I.&nbsp;Nath](https://www.ishannath.com/), [M.&nbsp;Quentel](https://www.milan-quentel.com/), and [J.&nbsp;Sayre](https://jsayre.ucdavis.edu/))
+5. **Does eating local reduce emissions?** (w/ [I.&nbsp;Nath](https://www.ishannath.com/), [M.&nbsp;Quentel](https://www.milan-quentel.com/), and [J.&nbsp;Sayre](https://jsayre.ucdavis.edu/))
     <!-- <nav>
     <div class="summary" data-nav="eatlocal">abstract</div>
     </nav>
@@ -109,7 +119,7 @@ UCLA grad students can [book a meeting with me](https://calendar.app.google/2jaM
     </div>
     </div> -->
 
-5. **Trade policy and food security** (w/ [I.&nbsp;Nath](https://www.ishannath.com/), [A.&nbsp;Schmitz](https://www.olab.berkeley.edu/graduate-students-1/alice-schmitz), and S.&nbsp;Stewart)
+6. **Trade policy and food security** (w/ [I.&nbsp;Nath](https://www.ishannath.com/), [A.&nbsp;Schmitz](https://www.olab.berkeley.edu/graduate-students-1/alice-schmitz), and S.&nbsp;Stewart)
     <!-- <nav>
     <div class="summary" data-nav="foodsecurity">abstract</div>
     </nav>

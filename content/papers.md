@@ -46,22 +46,26 @@ title: Papers
 
 ## work in progress
 
-1. **Spatial sources of lifetime inequality**
+1. **Skills, sorting, and optimal dynamic spatial policy**
+
+    I study optimal spatial policies in a quantitative dynamic spatial model with forward-looking migration decisions, human capital investments, and local human capital spillovers.
+
+2. **Spatial sources of lifetime inequality**
 
     Wage levels *and growth* vary across locations. How important is this for explaining patterns in lifetime inequality? Risky human capital model with migration and spatial externalities.
 
-2. **Slowdown, divergence, and the geography of human capital accumulation**
+3. **Slowdown, divergence, and the geography of human capital accumulation**
 
     A (potentially) unified story of the aggregate growth slowdown, regional growth and decline, and micro evidence on migration and human capital investment.
 
-3. **Agriculture and the gains from trade** (w/ [S.&nbsp;Kortum](https://campuspress.yale.edu/samuelkortum/) and [I.&nbsp;Nath](https://www.ishannath.com/))
+4. **Agriculture and the gains from trade** (w/ [S.&nbsp;Kortum](https://campuspress.yale.edu/samuelkortum/) and [I.&nbsp;Nath](https://www.ishannath.com/))
 
     Does trade matter more for poor countries? New ACR-like welfare formula with nonhomothetic preferences + sector-specific trade and income elasticities.
 
-4. **Does eating local reduce emissions?** (w/ [I.&nbsp;Nath](https://www.ishannath.com/), [M.&nbsp;Quentel](https://www.milan-quentel.com/), and [J.&nbsp;Sayre](https://jsayre.ucdavis.edu/))
+5. **Does eating local reduce emissions?** (w/ [I.&nbsp;Nath](https://www.ishannath.com/), [M.&nbsp;Quentel](https://www.milan-quentel.com/), and [J.&nbsp;Sayre](https://jsayre.ucdavis.edu/))
 
     Detailed data on emissions from shipping + emissions from agricultural production (by commodity and location) with a quantitative trade model.
 
-5. **Trade policy and food security** (w/ [I.&nbsp;Nath](https://www.ishannath.com/), [A.&nbsp;Schmitz](https://www.olab.berkeley.edu/graduate-students-1/alice-schmitz), and S.&nbsp;Stewart)
+6. **Trade policy and food security** (w/ [I.&nbsp;Nath](https://www.ishannath.com/), [A.&nbsp;Schmitz](https://www.olab.berkeley.edu/graduate-students-1/alice-schmitz), and S.&nbsp;Stewart)
 
     You're a policymaker worried about your nation's food security in an uncertain, global economy --- your people can't eat manufactures, after all. *What trade policies, if any, should you set?*
