@@ -42,6 +42,8 @@ I contributed two supplementary lectures on macro methods during our PhD math ca
 
 #### Conferences
 
+- [Curtis, Miao, Soliman, Suarez Serrato, & Xu (2025)](../files/discussion_WCSW2025.pdf) "The geographical leakage of environmental regulation: Evidence from the Clean Air
+Act" (presented at the 2025 West Coast Spatial Workshop)
 - [Lhuillier (2024)](../files/discussion_NBERSI2024.pdf) "Should I stay or should I grow? How cities affect learning, inequality and productivity" (presented at the 2024 NBER Summer Institute ITI)
 - [Donald, Fukui, & Miyauchi (2023)](../files/discussion_UEA2023.pdf) "Efficiency and welfare in a spatial economy" (presented at the 2023 UEA North American Meetings)
 
@@ -51,7 +53,7 @@ The first two presentations were written for Greg Kaplan's macro reading group a
 
 - [Gabaix, Lasry, Lions, & Moll (2016)](../files/slides-gllm2016.pdf)
 - [Fajgelbaum & Schaal (2020)](../files/slides-fs2020.pdf)
-- [Proving Existence/Uniqueness of Spatial Models with Allen & Arkolakis](../files/slides-allenarkolakis.pdf)
+- [Proving existence/uniqueness of spatial models with Allen & Arkolakis](../files/slides-allenarkolakis.pdf)
 
 #### Course: Firm Dynamics and Economic Growth
 
