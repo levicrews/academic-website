@@ -42,6 +42,7 @@ I contributed two supplementary lectures on macro methods during our PhD math ca
 
 #### Conferences
 
+- [Kikuchi (2025)](../files/discussion_NewFaces2025.pdf) "Does skill abundance still matter? The evolution of comparative advantage in the 21st century" (presented at the 2025 New Faces in International Economics Conference)
 - [Curtis, Miao, Soliman, Suarez Serrato, & Xu (2025)](../files/discussion_WCSW2025.pdf) "The geographical leakage of environmental regulation: Evidence from the Clean Air
 Act" (presented at the 2025 West Coast Spatial Workshop)
 - [Lhuillier (2024)](../files/discussion_NBERSI2024.pdf) "Should I stay or should I grow? How cities affect learning, inequality and productivity" (presented at the 2024 NBER Summer Institute ITI)
