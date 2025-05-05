@@ -2,9 +2,11 @@
 title: Teaching
 ---
 
-<!-- ## Courses -->
+<!-- ## Courses
 
-<!-- --- -->
+#### Theory of Economic Growth (U)
+
+--- -->
 
 ## TA materials
 
@@ -12,8 +14,8 @@ title: Teaching
 
 I wrote two assignments for Esteban Rossi-Hansberg's PhD field course at UChicago. Each one guided students through the process of developing, quantifying, and solving spatial models in order to answer interesting economic questions.
 
-- [Assignment 1: Working with Quantitative Spatial Models](../files/e33550_ps1.pdf)
-- [Assignment 2: A Dynamic Spatial Model of Climate Change](../files/e33550_ps2.pdf)
+- [Assignment 1: Working with quantitative spatial models](../files/e33550_ps1.pdf)
+- [Assignment 2: A dynamic spatial model of climate change](../files/e33550_ps2.pdf)
 
 #### Theory of Income III (PhD)
 
@@ -21,7 +23,8 @@ I wrote one [midterm exam](../files/e33200_midterm2.pdf) for Fernando Alvarez's 
 
 #### International Trade (U)
 
-I wrote a number of problem set and exam questions for Felix Tintelnot's undergraduate elective on international trade at UChicago. I also set up and moderated a Slack channel for the course to help facilitate student participation in the midst of the Covid-19 pandemic.
+I wrote a number of problem set and exam questions for Felix Tintelnot's undergraduate elective on international trade at UChicago.
+<!-- I also set up and moderated a Slack channel for the course to help facilitate student participation in the midst of the Covid-19 pandemic. -->
 
 - [Problem Set 1](../files/winter2021_ps1.pdf) with [solutions](../files/winter2021_ps1_solutions.pdf)
 - [Problem Set 3](../files/winter2021_ps3.pdf) with [solutions](../files/winter2021_ps3_solutions.pdf)
@@ -42,11 +45,12 @@ I contributed two supplementary lectures on macro methods during our PhD math ca
 
 #### Conferences
 
-- [Kikuchi (2025)](../files/discussion_NewFaces2025.pdf) "Does skill abundance still matter? The evolution of comparative advantage in the 21st century" (presented at the 2025 New Faces in International Economics Conference)
+- [Greaney, Parkhomenko, & Van Nieuwerburgh (2025)](../files/discussion_ChicagoFed2025.pdf) "Dynamic urban economics" (2025 FRB Chicago Conference on Barriers to Homeownership, Land Use, & Urban Dynamics)
+- [Kikuchi (2025)](../files/discussion_NewFaces2025.pdf) "Does skill abundance still matter? The evolution of comparative advantage in the 21st century" (2025 New Faces in International Economics)
 - [Curtis, Miao, Soliman, Suarez Serrato, & Xu (2025)](../files/discussion_WCSW2025.pdf) "The geographical leakage of environmental regulation: Evidence from the Clean Air
-Act" (presented at the 2025 West Coast Spatial Workshop)
-- [Lhuillier (2024)](../files/discussion_NBERSI2024.pdf) "Should I stay or should I grow? How cities affect learning, inequality and productivity" (presented at the 2024 NBER Summer Institute ITI)
-- [Donald, Fukui, & Miyauchi (2023)](../files/discussion_UEA2023.pdf) "Efficiency and welfare in a spatial economy" (presented at the 2023 UEA North American Meetings)
+Act" (2025 West Coast Spatial Workshop)
+- [Lhuillier (2024)](../files/discussion_NBERSI2024.pdf) "Should I stay or should I grow? How cities affect learning, inequality and productivity" (2024 NBER Summer Institute ITI)
+- [Donald, Fukui, & Miyauchi (2023)](../files/discussion_UEA2023.pdf) "Efficiency and welfare in a spatial economy" (2023 UEA North American Meetings)
 
 #### Reading Groups
 
