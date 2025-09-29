@@ -40,7 +40,7 @@ UCLA grad students can [book a meeting with me](https://calendar.app.google/2jaM
     </div>
     </div>
 
-2. **Agriculture, trade, and the spatial efficiency of global water use** (w/&nbsp;[T.&nbsp;Carleton](https://www.tammacarleton.com/) and [I.&nbsp;Nath](https://www.ishannath.com/))
+2. **Agriculture, trade, and global water use** (w/&nbsp;[T.&nbsp;Carleton](https://www.tammacarleton.com/) and [I.&nbsp;Nath](https://www.ishannath.com/))
     <nav>
     <div class="summary" data-nav="wateruse">abstract</div>
     <a href="/files/p-wateruse_paper.pdf" class="button">paper</a>
