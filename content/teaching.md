@@ -29,7 +29,7 @@ title: Teaching
 - Problem Set 5 <!-- - [Problem Set 5](../files/e164_ps5.pdf) -->
 - Problem Set 6 <!-- - [Problem Set 6](../files/e164_ps6.pdf) -->
 
-*h/t [Adrien Bilal](https://sites.google.com/site/adrienbilal/teaching?authuser=0), [Saki Bigio](https://www.sakibigio.net/economic-growth), Pablo Fajgelbaum, and (especially) Chad Jones*
+*h/t [Saki Bigio](https://www.sakibigio.net/economic-growth), [Adrien Bilal](https://sites.google.com/site/adrienbilal/teaching?authuser=0), Pablo Fajgelbaum, and (especially) Chad Jones*
 
 ---
 
