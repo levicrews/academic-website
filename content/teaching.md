@@ -2,11 +2,36 @@
 title: Teaching
 ---
 
-<!-- ## Courses
+## Courses
 
 #### Theory of Economic Growth (U)
 
---- -->
+[**Syllabus**](../files/e164_syllabus_w26.pdf)
+
+- Week 1: [The questions + facts of growth](../files/e164_week1.pdf)
+- Week 2: [The Solow model](../files/e164_week2.pdf)
+- Week 3: [The neoclassical growth model](../files/e164_week3.pdf)
+- Week 4: Evaluating the neoclassical growth model <!-- - Week 4: [Evaluating the neoclassical growth model](../files/e164_week4.pdf) -->
+- Week 5: AK models <!-- - Week 5: [AK models](../files/e164_week5.pdf) -->
+- Week 6: Ideas + innovation: Romer model <!-- - Week 6: [Ideas + innovation: Romer model](../files/e164_week6.pdf) -->
+- Week 7: Ideas + innovation: Schumpeterian model <!-- - Week 7: [Ideas + innovation: Schumpeterian model](../files/e164_week7.pdf) -->
+- Week 8A: Technology adoption + trade <!-- - Week 8A: [Technology adoption + trade](../files/e164_week8a.pdf) -->
+- Week 8B: Growth on a finite planet: Population + fertility <!-- - Week 8B: [Growth on a finite planet: Population + fertility](../files/e164_week8b.pdf) -->
+- Week 9A: Growth on a finite planet: Natural resources <!-- - Week 9A: [Growth on a finite planet: Natural resources](../files/e164_week9a.pdf) -->
+- Week 9B: Review <!-- - Week 9B: [Review](../files/e164_week9b.pdf) -->
+- Week 10: The future of growth <!-- - Week 10: [The future of growth](../files/e164_week10.pdf) -->
+
+**Problem sets** (email me for solutions):
+- [Problem Set 1](../files/e164_ps1.pdf)
+- [Problem Set 2](../files/e164_ps2.pdf)
+- Problem Set 3 <!-- - [Problem Set 3](../files/e164_ps3.pdf) -->
+- Problem Set 4 <!-- - [Problem Set 4](../files/e164_ps4.pdf) -->
+- Problem Set 5 <!-- - [Problem Set 5](../files/e164_ps5.pdf) -->
+- Problem Set 6 <!-- - [Problem Set 6](../files/e164_ps6.pdf) -->
+
+*h/t [Adrien Bilal](https://sites.google.com/site/adrienbilal/teaching?authuser=0), Saki Bigio, Pablo Fajgelbaum, and (especially) Chad Jones*
+
+---
 
 ## TA materials
 
