@@ -49,12 +49,11 @@ I wrote one [midterm exam](../files/e33200_midterm2.pdf) for Fernando Alvarez's 
 #### International Trade (U)
 
 I wrote a number of problem set and exam questions for Felix Tintelnot's undergraduate elective on international trade at UChicago.
-<!-- I also set up and moderated a Slack channel for the course to help facilitate student participation in the midst of the Covid-19 pandemic. -->
 
 - [Problem Set 1](../files/winter2021_ps1.pdf) with [solutions](../files/winter2021_ps1_solutions.pdf)
 - [Problem Set 3](../files/winter2021_ps3.pdf) with [solutions](../files/winter2021_ps3_solutions.pdf)
 - [Problem Set 5](../files/winter2021_ps5.pdf) with [solutions](../files/winter2021_ps5_solutions.pdf)
-- [Midterm Exam](../files/winter2021_midterm.pdf) with [solutions](../files/winter2021_midterm_solutions.pdf) and [additional TFUs](../files/winter2021_midtermTFU.pdf)
+- [Midterm Exam](../files/winter2021_midterm.pdf) with [solutions](../files/winter2021_midterm_solutions.pdf) + [additional TFUs](../files/winter2021_midtermTFU.pdf)
 - [Final Exam](../files/winter2021_final1.pdf) with [solutions](../files/winter2021_final1_solutions.pdf)
 
 #### Math Camp (PhD)
@@ -73,18 +72,17 @@ I contributed two supplementary lectures on macro methods during our PhD math ca
 - Bilal, Franco, & Rossi-Hansberg (2026) "Climate risk across the United States" (2026 West Coast Spatial Workshop)
 - [Greaney, Parkhomenko, & Van Nieuwerburgh (2025)](../files/discussion_ChicagoFed2025.pdf) "Dynamic urban economics" (2025 FRB Chicago Conference on Barriers to Homeownership, Land Use, & Urban Dynamics)
 - [Kikuchi (2025)](../files/discussion_NewFaces2025.pdf) "Does skill abundance still matter? The evolution of comparative advantage in the 21st century" (2025 New Faces in International Economics)
-- [Curtis, Miao, Soliman, Suarez Serrato, & Xu (2025)](../files/discussion_WCSW2025.pdf) "The geographical leakage of environmental regulation: Evidence from the Clean Air
-Act" (2025 West Coast Spatial Workshop)
+- [Curtis, Miao, Soliman, Suarez Serrato, & Xu (2025)](../files/discussion_WCSW2025.pdf) "The geographical leakage of environmental regulation: Evidence from the Clean Air Act" (2025 West Coast Spatial Workshop)
 - [Lhuillier (2024)](../files/discussion_NBERSI2024.pdf) "Should I stay or should I grow? How cities affect learning, inequality and productivity" (2024 NBER Summer Institute ITI)
 - [Donald, Fukui, & Miyauchi (2023)](../files/discussion_UEA2023.pdf) "Efficiency and welfare in a spatial economy" (2023 UEA North American Meetings)
 
 #### Reading Groups
 
-The first two presentations were written for Greg Kaplan's macro reading group at UChicago. Each was designed to take less than 30 minutes. The third presentation was written for a student-run reading group in trade and spatial economics. It was designed to take less than one hour.
+The first presentation was written for a student-run reading group in trade and spatial economics. It was designed to take less than one hour. The last two presentations were written for Greg Kaplan's macro reading group at UChicago. Each was designed to take less than 30 minutes.
 
-- [Gabaix, Lasry, Lions, & Moll (2016)](../files/slides-gllm2016.pdf)
-- [Fajgelbaum & Schaal (2020)](../files/slides-fs2020.pdf)
 - [Proving existence/uniqueness of spatial models with Allen & Arkolakis](../files/slides-allenarkolakis.pdf)
+- [Fajgelbaum & Schaal (2020)](../files/slides-fs2020.pdf)
+- [Gabaix, Lasry, Lions, & Moll (2016)](../files/slides-gllm2016.pdf)
 
 #### Course: Firm Dynamics and Economic Growth
 
