@@ -70,6 +70,7 @@ I contributed two supplementary lectures on macro methods during our PhD math ca
 
 #### Conferences
 
+- Bilal, Franco, & Rossi-Hansberg (2026) "Climate risk across the United States" (2026 West Coast Spatial Workshop)
 - [Greaney, Parkhomenko, & Van Nieuwerburgh (2025)](../files/discussion_ChicagoFed2025.pdf) "Dynamic urban economics" (2025 FRB Chicago Conference on Barriers to Homeownership, Land Use, & Urban Dynamics)
 - [Kikuchi (2025)](../files/discussion_NewFaces2025.pdf) "Does skill abundance still matter? The evolution of comparative advantage in the 21st century" (2025 New Faces in International Economics)
 - [Curtis, Miao, Soliman, Suarez Serrato, & Xu (2025)](../files/discussion_WCSW2025.pdf) "The geographical leakage of environmental regulation: Evidence from the Clean Air
