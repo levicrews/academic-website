@@ -22,9 +22,10 @@ title: Teaching
 - Week 10: The future of growth <!-- - Week 10: [The future of growth](../files/e164_week10.pdf) -->
 
 **Problem sets** (email me for solutions):
+
 - [Problem Set 1](../files/e164_ps1.pdf)
 - [Problem Set 2](../files/e164_ps2.pdf)
-- Problem Set 3 <!-- - [Problem Set 3](../files/e164_ps3.pdf) -->
+- [Problem Set 3](../files/e164_ps3.pdf)
 - Problem Set 4 <!-- - [Problem Set 4](../files/e164_ps4.pdf) -->
 - Problem Set 5 <!-- - [Problem Set 5](../files/e164_ps5.pdf) -->
 - Problem Set 6 <!-- - [Problem Set 6](../files/e164_ps6.pdf) -->
