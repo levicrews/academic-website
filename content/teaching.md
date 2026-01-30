@@ -12,7 +12,7 @@ title: Teaching
 - Week 2: [The Solow model](../files/e164_week2.pdf)
 - Week 3: [The neoclassical growth model](../files/e164_week3.pdf)
 - Week 4: [Evaluating the neoclassical growth model](../files/e164_week4.pdf)
-- Week 5: AK models <!-- - Week 5: [AK models](../files/e164_week5.pdf) -->
+- Week 5: [AK models](../files/e164_week5.pdf)
 - Week 6: Ideas + innovation: Romer model <!-- - Week 6: [Ideas + innovation: Romer model](../files/e164_week6.pdf) -->
 - Week 7: Ideas + innovation: Schumpeterian model <!-- - Week 7: [Ideas + innovation: Schumpeterian model](../files/e164_week7.pdf) -->
 - Week 8A: Technology adoption + trade <!-- - Week 8A: [Technology adoption + trade](../files/e164_week8a.pdf) -->
