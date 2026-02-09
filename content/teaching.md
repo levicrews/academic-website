@@ -13,8 +13,8 @@ title: Teaching
 - Week 3: [The neoclassical growth model](../files/e164_week3.pdf)
 - Week 4: [Evaluating the neoclassical growth model](../files/e164_week4.pdf)
 - Week 5: [AK models](../files/e164_week5.pdf)
-- Week 6: Ideas + innovation: Romer model <!-- - Week 6: [Ideas + innovation: Romer model](../files/e164_week6.pdf) -->
-- Week 7: Ideas + innovation: Schumpeterian model <!-- - Week 7: [Ideas + innovation: Schumpeterian model](../files/e164_week7.pdf) -->
+- Week 6: [Ideas + innovation: Romer model](../files/e164_week6.pdf)
+- Week 7: [Ideas + innovation: Schumpeterian model](../files/e164_week7.pdf)
 - Week 8A: Technology adoption + trade <!-- - Week 8A: [Technology adoption + trade](../files/e164_week8a.pdf) -->
 - Week 8B: Growth on a finite planet: Population + fertility <!-- - Week 8B: [Growth on a finite planet: Population + fertility](../files/e164_week8b.pdf) -->
 - Week 9A: Growth on a finite planet: Natural resources <!-- - Week 9A: [Growth on a finite planet: Natural resources](../files/e164_week9a.pdf) -->
