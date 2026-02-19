@@ -15,10 +15,10 @@ title: Teaching
 - Week 5: [AK models](../files/e164_week5.pdf)
 - Week 6: [Ideas + innovation: Romer model](../files/e164_week6.pdf)
 - Week 7: [Ideas + innovation: Schumpeterian model](../files/e164_week7.pdf)
-- Week 8A: Technology adoption + trade <!-- - Week 8A: [Technology adoption + trade](../files/e164_week8a.pdf) -->
+- Week 8A: [Technology adoption + trade](../files/e164_week8a.pdf)
 - Week 8B: Growth on a finite planet: Population + fertility <!-- - Week 8B: [Growth on a finite planet: Population + fertility](../files/e164_week8b.pdf) -->
 - Week 9A: Growth on a finite planet: Natural resources <!-- - Week 9A: [Growth on a finite planet: Natural resources](../files/e164_week9a.pdf) -->
-- Week 9B: Review <!-- - Week 9B: [Review](../files/e164_week9b.pdf) -->
+- Week 9B: [Review](../files/e164_week9b.pdf)
 - Week 10: The future of growth <!-- - Week 10: [The future of growth](../files/e164_week10.pdf) -->
 
 **Problem sets** (email me for solutions):
@@ -27,7 +27,7 @@ title: Teaching
 - [Problem Set 2](../files/e164_ps2.pdf)
 - [Problem Set 3](../files/e164_ps3.pdf)
 - [Problem Set 4](../files/e164_ps4.pdf)
-- Problem Set 5 <!-- - [Problem Set 5](../files/e164_ps5.pdf) -->
+- [Problem Set 5](../files/e164_ps5.pdf)
 - Problem Set 6 <!-- - [Problem Set 6](../files/e164_ps6.pdf) -->
 
 *h/t [Saki Bigio](https://www.sakibigio.net/economic-growth), [Adrien Bilal](https://sites.google.com/site/adrienbilal/teaching?authuser=0), Pablo Fajgelbaum, and (especially) Chad Jones*
