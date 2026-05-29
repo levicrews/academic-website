@@ -5,8 +5,7 @@ title: Levi Crews
 {{< figure class="avatar" src="img/avatar.jpg" alt="avatar">}}
 
 Welcome! I am an Assistant Professor of Economics at [UCLA](https://economics.ucla.edu/).
-My research focuses on **macroeconomics**, **spatial economics**,
-and **international trade**,
+My research focuses on **spatial economics**, **international trade**, and **macroeconomics**,
 with a particular focus on how the spatial allocation of economic activity
 affects macro aggregates and welfare in the long run.
 
