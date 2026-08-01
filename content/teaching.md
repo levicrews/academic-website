@@ -70,7 +70,7 @@ I contributed two supplementary lectures on macro methods during our PhD math ca
 
 #### Conferences
 
-- [Combes, Duranton, Gobillon, & Robert-Nicoud (2026)](../files/discussion_NBERSI-URB2026.pdf) "A unified urban model with nonhomothetic housing demand" (2026 NBER Summer Institute URB)
+- [Robert-Nicoud, Combes, Duranton, Gobillon (2026)](../files/discussion_NBERSI-URB2026.pdf) "A unified urban model with nonhomothetic housing demand" (2026 NBER Summer Institute URB)
 - [Aguilar (2026)](../files/discussion_NBERSI-ITI2026.pdf) "Credit constraints, learning, and spatial misallocation" (2026 NBER Summer Institute ITI)
 - [Bilal, Franco, & Rossi-Hansberg (2026)](../files/discussion_WCSW2026.pdf) "Climate risk across the United States" (2026 West Coast Spatial Workshop)
 - [Greaney, Parkhomenko, & Van Nieuwerburgh (2025)](../files/discussion_ChicagoFed2025.pdf) "Dynamic urban economics" (2025 FRB Chicago Conference on Barriers to Homeownership, Land Use, & Urban Dynamics)
